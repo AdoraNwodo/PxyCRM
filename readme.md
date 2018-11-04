@@ -1,8 +1,5 @@
 # Pxy CRM
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
-
 PxyCRM is a customer relationship management system built with Laravel. It consists of elevel modules
 
 ## Modules
